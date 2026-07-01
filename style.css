@@ -1,0 +1,55 @@
+
+    header {
+        background-color:grey;
+        color:white;
+        text-align:center;
+        margin:0 auto;
+        max-width:950px;
+        text-shadow: 3px 3px 5px black;
+        box-shadow: 0 0 15px white;
+        padding: 16px;
+    }
+    main{
+        display:flex;
+        text-align:center;
+        max-width:800px;
+        gap:20px;
+        margin:0 auto;
+        padding: 20px;
+        align-items:center;
+        text-shadow: 3px 3px 5px grey;
+        padding: 16px;
+    }
+    body {
+        background-color:white;
+        color:black;
+        font-family:Georgia;
+    }
+    img {
+        width:150px;
+        height:auto;
+        align-items:center;
+    }
+    div p {
+        font-weight:bold;
+    }
+    h2 {
+        box-shadow:0 0 15px grey;
+    }
+    button {
+        background-color:yellow;
+        border: none;
+    }
+    article {
+        text-align: center;
+        margin: 0 auto;
+        display: flex;
+        max-width:800px;
+        gap:20px;
+        padding: 20px;
+        text-weight: bold;
+    }
+    p {
+        background-color:black;
+        color:white;
+    }
