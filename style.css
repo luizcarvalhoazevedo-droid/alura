@@ -38,6 +38,7 @@
     }
     button {
         background-color:yellow;
+        border-radius: 14px;
     }
     button:hover {
         background-color: #F7D117;
