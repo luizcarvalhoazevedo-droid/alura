@@ -6,7 +6,7 @@
         margin:0 auto;
         max-width:950px;
         text-shadow: 3px 3px 5px black;
-        box-shadow: 0 0 15px white;
+        box-shadow: 0 0 15px #F7D117;
         padding: 16px 18px;
         outline: 1px solid #F7D117;
     }
