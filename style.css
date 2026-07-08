@@ -44,6 +44,7 @@ header p {
     button {
         background-color:yellow;
         border-radius: 14px;
+        border: none;
     }
     button:hover {
         background-color: #F7D117;
