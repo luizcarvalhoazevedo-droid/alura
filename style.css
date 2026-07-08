@@ -10,6 +10,9 @@
         padding: 16px 18px;
         outline: 1px solid #F7D117;
     }
+header p {
+    background-color: #F7D117;
+}
     main{
         display:flex;
         text-align:center;
