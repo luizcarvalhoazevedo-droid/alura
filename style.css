@@ -32,7 +32,7 @@ header p {
     }
     img {
         width:150px;
-        height:auto;
+        height:150px;
         align-items:center;
     }
     div p {
@@ -45,6 +45,7 @@ header p {
         background-color:yellow;
         border-radius: 14px;
         border: none;
+        box-shadow: 0 0 5px #F7D117;
     }
     button:hover {
         background-color: #F7D117;
