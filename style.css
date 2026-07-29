@@ -48,7 +48,7 @@ header p {
     }
     button:hover {
         background-color: #F7D117;
-        border: none;
+        outline: 1px solid #5b8def;
         box-shadow: 0 0 5px #F7D117;
     }
     article {
