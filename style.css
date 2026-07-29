@@ -43,7 +43,7 @@ header p {
     }
     button {
         background-color:yellow;
-        border-radius: 4px;
+        border-radius: 999px;
         border: none;
     }
     button:hover {
