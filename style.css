@@ -5,15 +5,16 @@
         text-align:center;
         margin:0 auto;
         max-width:950px;
-        text-shadow: 3px 3px 5px black;
-        box-shadow: 0 0 15px #F7D117;
+        text-shadow: 1px 1px grey,
+            2px 2px grey,
+            3px 3px grey,
+            4px 4px grey,
+            5px 5px grey;
+        box-shadow: 0 0 15px #303134;
         padding: 16px 18px;
-        outline: 1px solid #F7D117;
-        border: 2px solid #FFD84D;
+        outline: 1px solid #303134;
+        position: fixed;
     }
-header p {
-    background-color: #F7D117;
-}
     main{
         display:flex;
         text-align:center;
@@ -26,7 +27,7 @@ header p {
         padding: 15px;
     }
     body {
-        background-color:black;
+        background-color: rgba(8,8,8,1);
         color:white;
         font-family:Georgia;
     }
