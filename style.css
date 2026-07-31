@@ -39,6 +39,7 @@
     }
     div p {
         font-weight:bold;
+        text-align: center;
     }
     h2 {
         box-shadow:0 0 15px grey;
