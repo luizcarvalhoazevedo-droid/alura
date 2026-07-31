@@ -14,7 +14,6 @@
         box-shadow: 0 0 15px #303134;
         padding: 16px 18px;
         outline: 1px solid #303134;
-        position: fixed;
     }
     main{
         display:flex;
