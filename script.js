@@ -1,4 +1,4 @@
- const botao= document.querySelectorAll("button");
+ const botao = document.querySelectorAll("button");
     const botoes= document.querySelectorAll("button");
     botoes.forEach(function(botao) {
         let curtiu= false;
@@ -15,3 +15,7 @@
     }
     }
     })
+const temaclaro = document.querySelector(".Claro");
+const temaescuro = document.querySelector(".Escuro");
+
+
