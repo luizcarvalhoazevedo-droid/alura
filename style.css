@@ -43,6 +43,7 @@
         background-color:yellow;
         border-radius: 999px;
         outline: 1px solid #F7D117;
+        border: none;
     }
     button:hover {
         background-color: #F7D117;
