@@ -33,7 +33,6 @@ temaescuro.onclick = function() {
 const configuracao = document.querySelector(".configuracao")
 configuracao.onclick = function() {
  janelaconfiguracao.style.display = 'block'
- alert("clicou")
 }
 const fecharconfiguracao = document.querySelector(".fecharconfiguracao")
 fecharconfiguracao.onclick = function() {
