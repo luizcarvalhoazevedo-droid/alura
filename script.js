@@ -16,6 +16,9 @@
     }
     })
 const temaclaro = document.querySelector(".Claro");
+const conteudo = document.querySelector(".conteudo")
 const temaescuro = document.querySelector(".Escuro");
-
+temaclaro.onclick = function() {
+ conteudo.classList.add('claro')
+}
 
