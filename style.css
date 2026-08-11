@@ -27,6 +27,8 @@
         height: 100px;
         left: 50%;
         top: 50%
+        border-radius: 20px;
+        box-shadow: 0 0 5px #F7D117;
         transform: translate(-50%,-50%);
     }
     .conteudo.temaclaro {
@@ -34,7 +36,6 @@
     }
     .janelaconfiguracao.temaclaro {
         background-color: #FFFFFF;
-        transform: translate(-50%,-50%);
     }
     main{
         display:flex;
