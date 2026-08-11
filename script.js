@@ -15,11 +15,11 @@
     }
     }
     })
-const temaclaro = document.querySelector(".Claro");
+const temaclaro = document.querySelector(".temaclaro");
 const conteudo = document.querySelector(".conteudo");
 const Titulodoblog = document.querySelector(".Titulodoblog");
 const janelaconfiguracao = document.querySelector(".janelaconfiguracao")
-const temaescuro = document.querySelector(".Escuro");
+const temaescuro = document.querySelector(".temaescuro");
 temaclaro.onclick = function() {
  conteudo.classList.add('temaclaro')
  Titulodoblog.classList.add('temaclaro')
