@@ -33,6 +33,7 @@
     }
     .janelaconfiguracao.temaclaro {
         background-color: #FFFFFF;
+        transform: translate(-50%,-50%);
     }
     main{
         display:flex;
