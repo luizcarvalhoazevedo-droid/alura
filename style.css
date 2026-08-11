@@ -24,9 +24,10 @@
         position: fixed;
         background-color: rgba(20,20,20,1);
         width: 200px;
-        height: 200px;
+        height: 100px;
         left: 50%;
         top: 50%
+        transform: translate(-50%,-50%);
     }
     .conteudo.temaclaro {
         background-color: #FFFFFF;
