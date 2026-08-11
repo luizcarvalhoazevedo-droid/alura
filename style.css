@@ -18,8 +18,8 @@
     .janelaconfiguracao {
         display: none;
         background-color: rgba(20,20,20,1);
-        width: 100%;
-        height: 100%;
+        width: 200px;
+        height: 200px;
     }
     .janelaconfiguracao.temaclaro {
         background-color: #FFFFFF;
