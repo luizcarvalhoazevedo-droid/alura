@@ -25,4 +25,11 @@ temaclaro.onclick = function() {
  Titulodoblog.classList.add('temaclaro')
  janelaconfiguracao.classList.add('temaclaro')
 }
-
+temaescuro.onclick = function() {
+ conteudo.classList.remove('temaclaro')
+ Titulodoblog.classList.remove('temaclaro')
+ janelaconfiguracao.classList.remove('temaclaro')
+}
+configuracao.onclick = function() {
+ janelaconfiguracao.style.display = 'block'
+}
