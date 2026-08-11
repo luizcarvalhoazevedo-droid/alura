@@ -35,3 +35,7 @@ configuracao.onclick = function() {
  janelaconfiguracao.style.display = 'block'
  alert("clicou")
 }
+const fecharconfiguracao = document.querySelector(".fecharconfiguracao")
+fecharconfiguracao.onclick = function() {
+ janelaconfiguracao.style.display = 'none'
+}
