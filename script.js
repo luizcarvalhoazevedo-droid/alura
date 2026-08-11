@@ -16,17 +16,17 @@
     }
     })
 const temaclaro = document.querySelector(".temaclaro");
-const conteudo = document.querySelector(".conteudo");
 const Titulodoblog = document.querySelector(".Titulodoblog");
 const janelaconfiguracao = document.querySelector(".janelaconfiguracao")
 const temaescuro = document.querySelector(".temaescuro");
+const body = document.querySelector(".body")
 temaclaro.onclick = function() {
- conteudo.classList.add('temaclaro')
+ body.classList.add('temaclaro')
  Titulodoblog.classList.add('temaclaro')
  janelaconfiguracao.classList.add('temaclaro')
 }
 temaescuro.onclick = function() {
- conteudo.classList.remove('temaclaro')
+ body.classList.remove('temaclaro')
  Titulodoblog.classList.remove('temaclaro')
  janelaconfiguracao.classList.remove('temaclaro')
 }
