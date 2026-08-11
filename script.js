@@ -33,4 +33,5 @@ temaescuro.onclick = function() {
 const configuracao = document.querySelector(".configuracao")
 configuracao.onclick = function() {
  janelaconfiguracao.style.display = 'block'
+ alert("clicou")
 }
