@@ -30,6 +30,7 @@ temaescuro.onclick = function() {
  Titulodoblog.classList.remove('temaclaro')
  janelaconfiguracao.classList.remove('temaclaro')
 }
+const configuracao = document.querySelector(".configuracao")
 configuracao.onclick = function() {
  janelaconfiguracao.style.display = 'block'
 }
