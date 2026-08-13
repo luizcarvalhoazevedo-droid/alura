@@ -6,6 +6,7 @@
         margin:0 auto;
         width: 1000px;
         max-width: 1000px;
+        border-radius: 20px;
         text-shadow: 1px 1px #F7D117,
             2px 2px #F7D117,
             3px 3px #F7D117,
@@ -22,7 +23,7 @@
     .janelaconfiguracao {
         display: none;
         position: fixed;
-        background-color: rgba(20,20,20,1);
+        background-color: rgba(25,25,25,1);
         width: 200px;
         height: 140px;
         left: 50%;
@@ -49,6 +50,8 @@
         padding: 20px;
         align-items:center;
         padding: 15px;
+        border-radius: 20px;
+        background-color: rgba(25,25,25,1);
     }
     body {
         background-color: rgba(20,20,20,1);
