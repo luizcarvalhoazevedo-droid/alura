@@ -71,16 +71,17 @@
         border-radius: 20px;
         outline: 1px solid #F7D117;
         border: none;
+        color: #FFFFFF;
     }
     button:hover {
         background-color: #F7D117;
         outline: 1px solid #F7D117;
         box-shadow: 0 0 5px #F7D117;
-        text-shadow: 1px 1px #303134,
-            2px 2px #303134,
-            3px 3px #303134,
-            4px 4px #303134,
-            5px 5px #303134;
+        text-shadow: 1px 1px grey,
+            2px 2px grey,
+            3px 3px grey,
+            4px 4px grey,
+            5px 5px grey;
     }
     .Titulodoblog.temaclaro {
         background-color: #F5F5F5;
