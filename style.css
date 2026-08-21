@@ -33,6 +33,7 @@
     }
 .janelaconfiguracao button {
     margin-left: 0;
+    margin-top: 5px;
 }
     .conteudo.temaclaro {
         background-color: #FFFFFF;
