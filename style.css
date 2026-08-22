@@ -1,6 +1,5 @@
 
     header {
-        background-color: #000000;
         color:white;
         text-align:center;
         margin:0 auto;
@@ -11,9 +10,7 @@
             3px 3px #F7D117,
             4px 4px #F7D117,
             5px 5px #F7D117;
-        box-shadow: 0 0 15px #F7D117;
         padding: 16px 18px;
-        border: 2px solid #303134;
     }
     .body.temaclaro {
         color: #000000;
@@ -79,9 +76,7 @@
         box-shadow: 0 0 5px #F7D117;
     }
     .Titulodoblog.temaclaro {
-        background-color: #F5F5F5;
         color: #000000 !important;
-        border: 2px solid rgba(208,208,208);
     }
     article {
         text-align: center;
